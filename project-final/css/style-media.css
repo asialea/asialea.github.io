@@ -1,0 +1,117 @@
+@media only screen and (max-width: 780px) {
+  #index-1{
+    background-position:20% 50%;
+  }
+
+}
+
+
+@media only screen and (max-width: 960px) {
+
+.wrapper{
+  width: auto;
+}
+
+nav{
+  display: block;
+  position: absolute;
+  background-color:black;
+  top: 0;
+}
+
+nav ul{
+  padding: 0;
+}
+
+nav ul li{
+  float: none;
+}
+
+nav ul li a{
+  display: block;
+  padding: 4px;
+}
+
+nav li a:hover {
+  background-color: rgb(73, 75, 79);
+}
+
+header h1{
+  font-size: 3em;
+  top:50%;
+}
+
+h2{
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: 500;
+}
+
+/* INDEX */
+
+#asia{
+  font-size: 1.5em;
+  text-align: center;
+  padding: 10px;
+}
+
+/* ABOUT */
+
+#about-grid{
+  display: block;
+  width: 95vw;
+  font-size: 16px;
+  margin: 0 auto;
+}
+
+#about header{
+  padding:0;
+}
+
+/* VIRGINIA TECH */
+#vtech-grid{
+  display: block;
+  font-size: 16px;
+  width: 95vw;
+  margin: 0 auto;
+}
+
+#vtech iframe{
+  float: none;
+  padding: 0;
+  width: 95vw;
+}
+
+/* TWITTER */
+
+#twitter-grid{
+  display: block;
+  width: 95vw;
+  font-size: 16px;
+  margin: 0 auto;
+}
+
+#twitter-summary{
+  font-size: 16px;
+}
+
+/* UMIAMI */
+#umiami-grid{
+  display: block;
+  width: 95vw;
+  font-size: 16px;
+  margin: 0 auto;
+}
+
+#umiami iframe{
+  padding: 0;
+  width: 95vw;
+  margin-top: 20px;
+}
+
+#umiami-summary{
+  font-size: 16px;
+}
+
+
+}
