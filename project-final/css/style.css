@@ -330,7 +330,7 @@ footer ul li a {
   grid-column:1/2;
   grid-row: 3/4;
   max-width: 90%;
-  max-height: 90%;
+  max-height: auto;
 }
 
 #twitter-proj{
