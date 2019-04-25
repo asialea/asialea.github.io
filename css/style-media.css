@@ -82,6 +82,11 @@ h2{
   width: 95vw;
 }
 
+#vtech .slider-outer{
+  height: 400px;
+  width: auto;
+}
+
 /* TWITTER */
 
 #twitter-grid{
@@ -89,10 +94,13 @@ h2{
   width: 95vw;
   font-size: 16px;
   margin: 0 auto;
+  border-top: none;
 }
 
-#twitter-summary{
+#twitter #summary{
   font-size: 16px;
+  width: 95vw;
+  margin: 0 auto;
 }
 
 /* UMIAMI */
