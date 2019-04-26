@@ -22,7 +22,7 @@
 
 nav{
   display: block;
-  position: absolute;
+  position: fixed;
   background-color:black;
   top: 0;
 }
