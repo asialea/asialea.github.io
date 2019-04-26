@@ -8,6 +8,14 @@
 
 @media only screen and (max-width: 960px) {
 
+#full-nav{
+  display: none;
+}
+
+.dropdown{
+  display: inline-block;
+}
+
 .wrapper{
   width: auto;
 }
