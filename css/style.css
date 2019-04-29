@@ -264,7 +264,6 @@ footer ul li a {
   grid-row: 1/2;
   border-radius: 50%;
   image-orientation: center;
-  max-height: 100%;
   max-width: 100%;
 }
 
